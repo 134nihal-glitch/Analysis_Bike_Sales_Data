@@ -3,7 +3,7 @@
 <img width="508" height="706" alt="Screenshot 2025-11-07 135245" src="https://github.com/user-attachments/assets/8420645e-d824-4dba-af26-a1a25452b538" />
 
 **Project Overview**
-The Bike Sales dataset provides insights into customer demographics and purchasing patterns for a retail company specializing in bicycles. The objective of this project is to analyze sales trends, customer preferences, and key performance metrics using Excel tools and data visualization techniques. The dataset helps identify high-value customer segments, understand buying behavior, and support business decisions related to marketing and inventory.
+The Bike Sales dataset provides insights into customer demographics and purchasing patterns for a ***Retail Company Specializing in Bicycles***. The objective of this project is to analyze sales trends, customer preferences, and key performance metrics using Excel tools and data visualization techniques. The dataset helps identify high-value customer segments, understand buying behavior, and support business decisions related to marketing and inventory.
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 **Dataset Description**
 
